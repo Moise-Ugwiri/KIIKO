@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.wsj.net%2Fim-159924%3Fwidth%3D860%26height%3D573&f=1&nofb=1&ipt=763c0fb8e25054c29f6529f5cda41f65880f4ae3711606e6ba218ea8cd04c628&ipo=images)"  />
 
 ###
 
